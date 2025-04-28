@@ -1,0 +1,20 @@
+﻿{
+  "TestConfig": {
+    "BaseUrl": "https://www.sfnetus.com/webapp_sgnus/index.html",
+    "Users": [
+      {
+        "Code": 1230,
+        "Name": "Amanda Beisler",
+        "UserName": "abeisler@sagentpharma.com",
+        "Password":  "101-106"
+      },
+
+      {
+        "Code": 1271,
+        "Name": "Tim Emling",
+        "UserName": "temling@sagentpharma.com",
+        "Password": "temling2022"
+      }
+    ]
+  }
+}

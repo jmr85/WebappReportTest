@@ -1,0 +1,82 @@
+# -----------------------------
+# Visual Studio / .NET Core
+# -----------------------------
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MonoDevelop / Xamarin
+*.userprefs
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+bin/
+obj/
+artifacts/
+
+# Visual Studio caches and temp files
+.vs/
+Generated\ Files/
+*.log   # build logs
+
+# MSTest test results
+[TestRr]esult*/ 
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Others (profiling, profiler etc.)
+*.psess
+*.vspx
+*.vsp
+
+# -----------------------------
+# NuGet / Packages
+# -----------------------------
+*.nupkg
+# The packages folder can be ignored because of PackageReference
+packages/
+
+# -----------------------------
+# Selenium driver executables
+# -----------------------------
+# (si versionas localmente los drivers, ignorar estos binarios)
+chromedriver.exe
+geckodriver.exe
+IEDriverServer.exe
+
+# -----------------------------
+# log4net logs
+# -----------------------------
+# Ignorar archivos .log generados en tiempo de ejecución
+*.log
+logs/
+
+# -----------------------------
+# Test Results and Coverage
+# -----------------------------
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# -----------------------------
+# Optional: IDEs / Editors
+# -----------------------------
+.vscode/
+.idea/
